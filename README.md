@@ -1,2 +1,2 @@
-# ComputerScienceCourses
-some courses in computer science such as: Python, R, GitHub, WebDesign
+# ComputerScience Notes
+some learning notes about computer science such as: Python, R, GitHub, WebDesign
