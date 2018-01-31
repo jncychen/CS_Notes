@@ -4,4 +4,8 @@ email: jncychen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   初學網頁者總需要實作一個網站來學習，GitHub是個好地方，讓你可以輕鬆建立網頁，本網站記錄一些學習過程可供參考。
   不過，筆者使用Windows系統，所以所有的操作都是以Windows 64-bit為主，對於其他系統的操作者可能需要參考其他說明.
+category-dir: /ComputerScienceCourses
 theme: minima
+markdown: kramdown
+permalink: pretty
+exclude: README.MD
